@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="server.WordyServer" />
+    <module name="gitlab" />
+    <option name="PROGRAM_PARAMETERS" value="-ORBInitialHost 192.168.25.130 -ORBInitialPort 9999" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

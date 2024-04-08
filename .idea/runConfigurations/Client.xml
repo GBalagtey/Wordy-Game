@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Client" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="player.WordyClient" />
+    <module name="gitlab" />
+    <option name="PROGRAM_PARAMETERS" value="-ORBInitialHost localhost -ORBInitialPort 9999" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
