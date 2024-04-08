@@ -1,4 +1,4 @@
-# 2022-2_9328-finGrp4_Java
+# CORBA Wordy Game
 
 
 
